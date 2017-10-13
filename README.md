@@ -19,3 +19,9 @@ contents
 # end of the fourth week
 ## 9/29/2017
 ### at the beginning of the week we had a work day to work on and turn in our google friday project idea. on tuesday we worked on our pyvar homework due friday. for half of wedsday we worked if the pyvar homework and for the other half we learned about if statements and how to make passwords and usernames that match with certain passwords and usernames.
+
+---
+
+# end of fifth week
+##10/13/2017
+###at the beginning of the week we learned about conditionals or if statements. then we practiced them on wedsday. and on thursday we started to us if statements and when statement to solve math equations.
