@@ -25,3 +25,8 @@ contents
 # end of fifth week
 ##10/13/2017
 ###at the beginning of the week we learned about conditionals or if statements. then we practiced them on wedsday. and on thursday we started to us if statements and when statement to solve math equations.
+
+
+# end of week 7 and 8
+## 10/27/2017
+### on monday week first started to look into loops, yuesday we learned about while  loops and some statements, wedsnday we practiced as well as thurday with loops, on monday we learned some new code to make mathmatical equations and how to make random, and every other day was a work day for homework
