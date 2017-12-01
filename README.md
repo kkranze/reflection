@@ -30,3 +30,10 @@ contents
 # end of week 7 and 8
 ## 10/27/2017
 ### on monday week first started to look into loops, yuesday we learned about while  loops and some statements, wedsnday we practiced as well as thurday with loops, on monday we learned some new code to make mathmatical equations and how to make random, and every other day was a work day for homework
+
+
+-----------
+
+# end of week 10 i think?
+## 12/1/2017
+### monday we finished setting up our Pi's by conecting them to the class wifi and finding the i.p. address. then we went onto putty and conected to the Pi's and created an walking dog animation with 2 frames. then we setup the accelerometer setting so that when you shake the pi it displayed a red screen. then last we created our own characters and i made a ninja turtle.
